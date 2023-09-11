@@ -1,2 +1,2 @@
 # lcw2
-clone of ocw650
+clone of lcw650
